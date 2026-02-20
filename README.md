@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinandan G</h1>
 
 <p align="center">
-  <img width="300" height="500" src="https://github.com/user-attachments/assets/274caaf7-6166-4c08-8358-f280864b191c" />
+  <img width="220"  src="https://github.com/user-attachments/assets/274caaf7-6166-4c08-8358-f280864b191c" />
 </p>
 
 <h3 align="center">A passionate java developer</h3>
